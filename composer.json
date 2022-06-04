@@ -1,0 +1,7 @@
+{
+    "name": "netsiteweaver/codeigniter-3-audit-trail",
+    "description": "A simple audit trail for codeigniter v3",
+    "require": {
+        "php": ">=7.4"
+    }
+}
